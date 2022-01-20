@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @acartson
+- 👀 I’m interested in Architecture and Computer Science!
+- 🌱 I’m currently learning C++ (EECS 280)
